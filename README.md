@@ -1,2 +1,2 @@
-# microservices-job-3
-Consume RESTAPI
+# html js rest client
+A sample rest client
